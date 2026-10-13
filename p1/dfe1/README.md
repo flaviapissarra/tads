@@ -8,4 +8,4 @@
 * [Semana 4 [15/09 a 21/09]: Estrutura e Semântica do HTML](./atividade4.md)
 * [Semana 5 [22/09 a 28/09]: CSS - Cascading Style Sheets e [Atividade 5] Questionário — HTML Semântico e CSS — Semanas 4 e 5)](./atividade5.md)
 * [[Atividade 6] Questionário — Layouts com CSS (+ revisão)](./atividade6.md)
-* [](./atividade7.md)
+* [[Prática 7] Fórum — Desafios e Boas Práticas na Construção de Layouts Responsivos](./atividade7.md)
