@@ -2,6 +2,20 @@
 
 1. <img width="1243" height="271" alt="image" src="https://github.com/user-attachments/assets/7fd73df6-3aea-4a3e-a726-a077ac62e9e9" />
 
+> t = 11 chips; d = 3 chips defeituosos; logo, 11-3 = 8 bons; 2 chips com reposição; E --> pelo menos 1 defeituoso;
+
+> P(E) = 1 - P(nenhum_defeituoso)
+
+> 1º) ser bom --> 8 em 11 --> 8/11
+
+> 2º) com reposição --> 8 em 11 também --> 8/11
+
+> P(dois_bons) = (8/11) * (8/11) = (8*8) / (11*11) = 64 / 121
+
+> P(E) = 1 - (64/121) = (121/121) - (64/121) = 57/121 = 0.47107
+
+> P(E) = 0.47107 * 100 = 47.11% 
+
 2. <img width="1243" height="271" alt="image" src="https://github.com/user-attachments/assets/3cb14ec7-b255-4282-a188-4cf172ea300b" />
 
 3. <img width="1246" height="253" alt="image" src="https://github.com/user-attachments/assets/bf33dd61-a5e1-4f87-a72b-efc630298576" />
