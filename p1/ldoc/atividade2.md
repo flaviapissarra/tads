@@ -9,4 +9,4 @@
 > 7. Qual é o resultado da soma binária [ $(1011)_{2}$ ] ​+ [ $(110)_{2}$ ]? a. [ $(10001)_{2}$​ ];
 > 8. O resultado da subtração binária [ $(1101)_{2}$ ] ​− [ $(101)_{2}$ ]​ é: a. [ $(1000)_{2}$ ];
 > 9. O resultado da multiplicação binária [ $(100)_{2}$ ] ​× [ $(10)_{2}$ ]​ é: b. [ $(1000)_{2}$ ];
-> 10. 
+10. O complemento de 2 do número binário de 8 bits [ $(01010110)_{2} ]​ é: b. [ $(10101010)_{2}$ ];
