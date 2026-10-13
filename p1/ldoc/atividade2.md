@@ -4,7 +4,7 @@
 > b. O valor de um dígito é determinado por sua posição;
 
 2. No sistema hexadecimal, qual é o valor decimal do dígito 'E'?
-> d. 14;
+> d. $(14)_{10}$;
 
 3. O número decimal 45, quando convertido para a base binária, é igual a:
 > a. $(101101)_{2}$;
