@@ -54,7 +54,7 @@
 
 ### Questão 4
 
-> lote = 137 SSDs; defeito = 23; esc = 1
+> lote = 137 SSDs; defeito = 23; acaso = 1
 
 > D = {o SSD sorteado é um defeituoso?}
 
