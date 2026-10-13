@@ -10,4 +10,4 @@
 
 ###### TI
 
-##### Créditos: Prof. Flávia Simões Rangel
+##### Créditos: Prof. Flávia Simões Rangel e Prof. Pedro David Netto Silveira
