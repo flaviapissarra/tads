@@ -11,8 +11,17 @@
 
 4. Qual a diferença entre SRAM e DRAM?
 > Comparando-as, a:
-> SRAM (Static Random Access Memory/Memória de Acesso Aleatório Estática): usa os circuitos eletrônicos flip flops para guardar cada bit de dado; não precisa de atualização constante enquanto estiver ligada à energia; é mais rápida mas também mais cara e com menor capacidade de armazenamento; é utilizada em memórias cache de processadores;
-> DRAM (Dynamic Random Access Memory): usa um conjunto de um transistor e um capacitor para cada bit; precisa ser recarregada milhares de vezes por segundo para não perder os dados; é mais lenta que a SRAM mas é mais barata e permite alta densidade de memória; é utilizada como a memória RAM principal de computadores, notebooks e celulares.
+
+> SRAM (Static Random Access Memory/Memória de Acesso Aleatório Estática):
+> usa os circuitos eletrônicos flip flops para guardar cada bit de dado;
+> não precisa de atualização constante enquanto estiver ligada à energia;
+> é mais rápida mas também mais cara e com menor capacidade de armazenamento;
+> é utilizada em memórias cache de processadores;
+
+> DRAM (Dynamic Random Access Memory): usa um conjunto de um transistor e um capacitor para cada bit;
+> precisa ser recarregada milhares de vezes por segundo para não perder os dados;
+> é mais lenta que a SRAM mas é mais barata e permite alta densidade de memória;
+> é utilizada como a memória RAM principal de computadores, notebooks e celulares.
 
 5) Qual a diferença entre as organizações de memória?
 > A diferença entre as organizações de memória é calculada pelo número de endereços (células), o tamanho do conteúdo de cada célula (em bits) e o total de bits de armazenamento de cada uma.
