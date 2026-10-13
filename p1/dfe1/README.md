@@ -1,5 +1,4 @@
 # Desenvolvimento Front-End I
-#### HTML, CSS
 
 ## Índice
 
@@ -10,3 +9,6 @@
 * [Semana 5 [22/09 a 28/09]: CSS - Cascading Style Sheets e [Atividade 5] Questionário — HTML Semântico e CSS — Semanas 4 e 5)](./atividade5.md)
 * [[Atividade 6] Questionário — Layouts com CSS (+ revisão)](./atividade6.md)
 * [[Prática 7] Fórum — Desafios e Boas Práticas na Construção de Layouts Responsivos](./atividade7.md)
+
+
+###### HTML, CSS
