@@ -12,6 +12,6 @@
 6. [Questionário — Layouts com CSS (+ revisão)](./atividade6.md)
 7. [Fórum — Desafios e Boas Práticas na Construção de Layouts Responsivos](./atividade7.md)
 
-####### HTML, CSS
+###### HTML, CSS
 
-###### Créditos: Prof. Cleziel Franzoni da Costa
+##### Créditos: Prof. Cleziel Franzoni da Costa
