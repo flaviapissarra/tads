@@ -1,0 +1,88 @@
+<!DOCTYPE html5>
+<html lang="pt-BR">
+<header>
+  <meta charset="UTF-8" name="viewport">
+  <!-- título da página -->
+  <title>CV | Flávia P. Pissarra</title>
+  <!-- esse exercício é parte da... -->
+  <!-- Semana 3 [08/09 a 14/09]: Estrutura e Semântica do HTML -->
+  <!-- [Prática 3] Criando sua primeira página HTML (Prazo: 28/09 – Não avaliativa) -->
+</header>
+
+<body>
+  <!-- Neste código utilizo os seguintes elementos semânticos: -->
+  <!-- Para o cabeçalho utilizo a tag <header> para salvar as configurações da página, seu título e outras informações relevantes quanto ao "design" -->
+  <!-- Para o corpo da página utilizo a tag <body> contendo (quase) tudo que é visualizável pela(o) usuária(o) do site -->
+  <!-- A tag <footer> utilizo para colocar outras informações relevantes, tal como um site comercial colocaria endereço, telefone, CNPJ etc -->
+  
+  <h1>Currículo de Flávia P. Pissarra</h1>
+
+  <!-- navegação / menu -->
+  <nav>
+    <!-- primeira lista: não ordenada -->
+    <!-- Adicionar uma barra de navegação com uma lista de links internos (âncoras para as seções da própria página [Ex.: #sobre]). -->
+    <ul>
+      <li> <a href="#sobre">Sobre ela</a> </li>
+      <li> <a href="#projetos">Projetos</a> </li>
+      <li> <a href="#linguagens">Linguagens e Línguas</a> </li>
+      <li> <a href="#contato">Entre em contato</a> </li>
+    </ul>
+  </nav>
+  
+  <!-- conteúdo principal / main -->
+  <main>
+    <!-- Pelo menos 1 seção de conteúdo usando section ou article com título (h2). -->
+    <section id="sobre">
+      <h2>Quem é Flávia P. Pissarra?</h2>
+      <p>Pós-graduada em Gestão da Educação Especial na Perspectiva Inclusiva (Ifes Cefor), graduada em Letras (Ifes Vitória) e técnica em Informática (Ifes Serra). Coordena o CTecL, laboratório de tradução com inteligência artificial, investigando como sistemas de tradução automática lidam com ritmo poético e nuances culturais em textos multilíngues. Cursando Análise e Desenvolvimento de Sistemas pelo Ifes Cefor/Alegre [2026-2029]. Fluente em Inglês (C2) e Espanhol (C2); estudante de Italiano (A2), Japonês (N5-N4) e Coreano (TOPIK I-1).</p>
+    </section>
+    
+    <section id="projetos">
+      <h2>Projetos desenvolvidos</h2>
+      <!-- Pelo menos 1 lista (ul ou ol) -->
+      <ol>
+        <li>Clube de Leitura de Literatura Japonesa - ReLer&Fazer (DLL/Ufes) - 2020 a 2023</li>
+        <li>Clube de Leitura de Ficções Científicas - ReLer&Fazer (DLL/Ufes) - 2020 a 2023 </li>
+        <li>CTecL - ReLer&Fazer (DLL/Ufes) - 2020 a 2023</li>
+        <li>CTecL: IA Lab - laboratório independente - 2023 até o presente</li>
+      </ol>
+      <!-- Pelo menos 1 link externo com texto descritivo -->
+      <a href="https://www.relerefazer.org/" target="_blank" rel="noopener">Conheça o programa "ReLer&Fazer: Rede de Experiências em Leitura no ES"</a>
+      <!-- Pelo menos 1 imagem com alt descritivo (opcionalmente em figure/figcaption) -->
+      <!-- Usar <figure> com <figcaption> para ilustrar um conteúdo do artigo. [...] neste caso, section -->
+      <figure>
+        <img src="https://static.wixstatic.com/media/d073e0_3a0a0190a7c1477d9c8bfdf0d4a95592~mv2.png/v1/fill/w_191,h_185,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/BaselogomarcaRELerefazer%20teste%20(2).png" alt="Logo do programa ReLer&Fazer" width="80"/>
+        <figcaption>Programa ReLer&Fazer (DLL/Ufes)</figcaption>
+      </figure>
+    </section>
+    
+    <section id="linguagens">
+      <h2>Linguagens</h2>
+      <ul>
+        <li>Python</li>
+        <li>SQL</li>
+      </ul>
+      
+      <h2>Idiomas</h2>
+      <ul>
+        <li>Português - nativo</li>
+        <li>Inglês - C2</li>
+        <li>Espanhol - C2</li>
+        <li>Italiano - A2</li>
+        <li>Coreano - Iniciante</li>
+      </ul>
+    </section>
+    
+    <section id="contato">
+      <h2>Vamos conversar?</h2>
+      <p><img src="https://cdn-icons-png.flaticon.com/512/6244/6244199.png" alt="Proton mail" width="20"> flaviapissarra@proton.me</p>
+      <!-- Criar uma seção “Recursos” com links externos úteis (MDN, W3C, web.dev) ... aqui optei por criar links externos, mas que tenham a ver com a seção "contato" -->
+      <p>Visite o <a href="http://lattes.cnpq.br/7945109731847519" target="_blank" rel="noopener">Lattes</a> ou o <a href="https://www.linkedin.com/in/flaviapissarra/" target="_blank" rel="noopener">LinkedIn</a>.</p>
+    </section>
+  </main>
+  
+  <!-- informações finais / footer -->
+  <footer>fpp © 2026</footer>
+  
+</body>
+</html>
