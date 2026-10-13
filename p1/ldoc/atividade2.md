@@ -30,5 +30,5 @@
 9. O resultado da multiplicação binária '$(100)_{2}$' vezes '$(10)_{2}$' é:
 > b. $(1000)_{2}$;
 
-10. O complemento de 2 do número binário de 8 bits '$(01010110)_{2}' é:
+10. O complemento de 2 do número binário de 8 bits $(01010110)_{2}$ é:
 > b. $(10101010)_{2}$;
