@@ -112,4 +112,10 @@
 
 > assim, chance = 0.9 / (1-0.9) = 0.9 / 0.1 = 9.00
 
-10. <img width="1243" height="431" alt="image" src="https://github.com/user-attachments/assets/2b13749e-e0a4-4980-aece-c51093881606" />
+<img width="1243" height="431" alt="image" src="https://github.com/user-attachments/assets/2b13749e-e0a4-4980-aece-c51093881606" />
+
+### Questão 10
+
+>
+
+>
