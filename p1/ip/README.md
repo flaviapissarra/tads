@@ -13,3 +13,5 @@
 7. [Atividade Avaliativa 4 - Semana 7](atividade4.c) e [Exercício de fixação 2](fixacao2.c)
 
 ###### C
+
+##### Créditos: Prof. Carlos Alexandre Siqueira da Silva
