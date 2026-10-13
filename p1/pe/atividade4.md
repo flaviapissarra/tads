@@ -60,9 +60,27 @@
 
 > P(D) = defeito / lote = 23 / 137 ~= 0.1678832... que em porcentagem (*100) vira P(D) ~= 16.79%
 
-5. <img width="1247" height="442" alt="image" src="https://github.com/user-attachments/assets/4760b763-f74c-4bb1-a2d7-3575d9df0b7e" />
+<img width="1247" height="442" alt="image" src="https://github.com/user-attachments/assets/4760b763-f74c-4bb1-a2d7-3575d9df0b7e" />
 
-6. <img width="1245" height="316" alt="image" src="https://github.com/user-attachments/assets/4aed39f1-7ccb-44bb-a0b3-24697eb28376" />
+### Questão 5
+
+> empresas = 213; ling_py = 14; ling_r = 86; ling2 = 6;
+
+> A = { A empresa escolhida ao acaso usa python para desenvolver os projetos }, F = { A empresa escolhida ao acaso usa R para desenvolver os projetos } e A ∩ F = { A empresa escolhida ao acaso usa R e python para desenvolver os projetos }; P(probabilidade do serviço contratado ser realizado por nenhuma das duas linguaguens citadas acima)?
+
+> unindo os conjuntos: conjunto = ling_py + ling_r - ling2 = 14+86-6 = 94
+
+> não usam nenhuma: nenhuma = empresas - conjunto = 213-94 = 119
+
+> probabilidade: probab = (nenhuma/empresas)*100 = (119/213)*100 = 0.558685
+
+> em porcentagem: prob *= 100 ~= 0.5586 * 100 ~= 55.86%, assim, P(A¯∪¯F¯) ~= 55.87%
+
+<img width="1245" height="316" alt="image" src="https://github.com/user-attachments/assets/4aed39f1-7ccb-44bb-a0b3-24697eb28376" />
+
+### Questão 6
+
+
 
 7. <img width="1244" height="277" alt="image" src="https://github.com/user-attachments/assets/bfecb60a-734d-4e73-84ff-8e824fde9667" />
 
