@@ -60,4 +60,42 @@
 
 > d. Usar controle de versão (ex.: Git)
 
-7. 
+7. Qual cenário caracteriza uso indevido de sistemas?
+
+> a. Servidor com RAID para maior disponibilidade
+
+> b. Política de senhas fortes atualizada
+
+> c. Funcionário copiando a base de clientes para benefício próprio - Correto! É acesso e uso não autorizado de recursos internos.
+
+> d. Bug não corrigido em serviço crítico
+
+8. Qual alternativa melhor descreve uma vulnerabilidade de configuração?
+
+> a. Falha em código que causa corrupção de memória
+
+> b. Usuário clicando em link de phishing
+
+> c. Permissões excessivas e senhas fracas em serviços expostos - Correto! Isso caracteriza configuração insegura.
+
+> d. Datacenter sem redundância geográfica
+
+9. Qual exemplo está corretamente associado a um controle detectivo?
+
+> a. Treinamento de usuários
+
+> b. Sistemas de auditoria e monitoramento de eventos - Correto! Detectam incidentes em andamento ou já ocorridos.
+
+> c. Backups e plano de recuperação de desastres
+
+> d. Firewall e autenticação multifator
+
+10. Qual opção não é apresentada como benefício direto de investir em segurança da informação?
+
+> a. Continuidade operacional com menos paralisações
+
+> b. Conformidade com leis e regulamentos (ex.: LGPD, GDPR)
+
+> c. Eliminação completa de todos os riscos - Correto! Segurança reduz, mas não elimina totalmente os riscos.
+
+> d. Proteção da reputação e confiança de clientes
