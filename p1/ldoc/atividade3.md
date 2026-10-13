@@ -15,22 +15,15 @@
 > DRAM (Dynamic Random Access Memory): usa um conjunto de um transistor e um capacitor para cada bit; precisa ser recarregada milhares de vezes por segundo para não perder os dados; é mais lenta que a SRAM mas é mais barata e permite alta densidade de memória; é utilizada como a memória RAM principal de computadores, notebooks e celulares.
 
 5) Qual a diferença entre as organizações de memória?
+> A diferença entre as organizações de memória é calculada pelo número de endereços (células), o tamanho do conteúdo de cada célula (em bits) e o total de bits de armazenamento de cada uma.
 
-A diferença entre as organizações de memória é calculada pelo número de endereços (células), o tamanho do conteúdo de cada célula (em bits) e o total de bits de armazenamento de cada uma.
+> a) Memória A - 32K células de 8 bits: São 32.768 células, cada uma armazenando 8 bits. Precisa de 15 bits para os endereços e possui um total de 262.144 bits.
 
-a) Memória A - 32K células de 8 bits:
+> b) Memória B - 16K células de 16 bits: São 16.384 células, cada uma armazenando 16 bits. Precisa de 14 bits para os endereços e possui um total de 262.144 bits.
 
-São 32.768 células, cada uma armazenando 8 bits. Precisa de 15 bits para os endereços e possui um total de 262.144 bits.
+> c) Memória C - 16K células de 8 bits: Também são 16.384 células, cada uma armazenando 8 bits. Precisa de 14 bits para os endereços e possui um total de 131.072 bits.
 
-b) Memória B - 16K células de 16 bits:
-
-São 16.384 células, cada uma armazenando 16 bits. Precisa de 14 bits para os endereços e possui um total de 262.144 bits.
-
-c) Memória C - 16K células de 8 bits:
-
-Também são 16.384 células, cada uma armazenando 8 bits. Precisa de 14 bits para os endereços e possui um total de 131.072 bits.
-
-Assim, a memória C possui metade da capacidade das outras duas, ao passo que as memórias A e B têm capacidades iguais.
+> Assim, a memória C possui metade da capacidade das outras duas, ao passo que as memórias A e B têm capacidades iguais.
 
 6) Qual a função do REM e do RDM?
 O REM (Registrador de Endereços de Memória) especifica a posição física que será acessada enquanto o RDM (Registrador de Dados de Memória) guarda o conteúdo que será lido ou gravado naquela posição.
