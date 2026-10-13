@@ -35,34 +35,36 @@
 > Assim, a memória C possui metade da capacidade das outras duas, ao passo que as memórias A e B têm capacidades iguais.
 
 6) Qual a função do REM e do RDM?
-O REM (Registrador de Endereços de Memória) especifica a posição física que será acessada enquanto o RDM (Registrador de Dados de Memória) guarda o conteúdo que será lido ou gravado naquela posição.
+> O REM (Registrador de Endereços de Memória) especifica a posição física que será acessada enquanto o RDM (Registrador de Dados de Memória) guarda o conteúdo que será lido ou gravado naquela posição.
 
-Ou seja, a função do REM é armazenar temporariamente o endereço de memória onde a CPU deseja ler ou gravar uma informação; e a do RDM é armazenar temporariamente o conteúdo (dado ou instrução) que acabou de ser lido da memória ou que está pronto para ser gravado nela.
+> Ou seja, a função do REM é armazenar temporariamente o endereço de memória onde a CPU deseja ler ou gravar uma informação; e a do RDM é armazenar temporariamente o conteúdo (dado ou instrução) que acabou de ser lido da memória ou que está pronto para ser gravado nela.
 
 7) Descreva os barramentos que interligam o processador e a memória principal.
-I. Address Bus / Barramento de Endereços: é unidirecional e transporta o endereço da célula de memória que a CPU deseja acessar (seja para ler ou para gravar); 
-II. Data Bus / Barramento de dados: é bidirecional e transporta a informação propriamente dita (os dados ou as instruções do programa) entre o processador e a memória; 
-III. Control Bus / Barramento de controle: é misto/bidirecional em termos globais (pois engloba várias linhas com funções específicas de ida e volta) e transporta os sinais de sincronização e comando que coordenam a operação, garantindo que os componentes saibam exatamente o que fazer e quando fazer.
+> I. Address Bus / Barramento de Endereços: é unidirecional e transporta o endereço da célula de memória que a CPU deseja acessar (seja para ler ou para gravar); 
+> II. Data Bus / Barramento de dados: é bidirecional e transporta a informação propriamente dita (os dados ou as instruções do programa) entre o processador e a memória; 
+> III. Control Bus / Barramento de controle: é misto/bidirecional em termos globais (pois engloba várias linhas com funções específicas de ida e volta) e transporta os sinais de sincronização e comando que coordenam a operação, garantindo que os componentes saibam exatamente o que fazer e quando fazer.
 
 8) Descreva passo-a-passo uma operação de leitura.
-I. CPU define o local: o endereço da memória é colocado no REM;
-II. Envio do endereço: esse endereço viaja pelo Barramento de Endereços até a memória;
-III. Ordem de leitura: a CPU envia o sinal de leitura (READ) pelo Barramento de Controle;
-IV. Busca e envio: a memória localiza a célula, lê o conteúdo e o envia pelo Barramento de Dados;
-V. Recebimento: a CPU captura a informação e a guarda no RDM.
+> I. CPU define o local: o endereço da memória é colocado no REM;
+> II. Envio do endereço: esse endereço viaja pelo Barramento de Endereços até a memória;
+> III. Ordem de leitura: a CPU envia o sinal de leitura (READ) pelo Barramento de Controle;
+> IV. Busca e envio: a memória localiza a célula, lê o conteúdo e o envia pelo Barramento de Dados;
+> V. Recebimento: a CPU captura a informação e a guarda no RDM.
 
 9) Descreva passo-a-passo uma operação de escrita.
-I. A CPU define o local e o dado: o endereço de destino é colocado no REM e o dado a ser gravado é colocado no RDM;
-II. Envio das informações: o endereço viaja pelo Barramento de Endereços e o dado viaja pelo Barramento de Dados até a memória;
-III. Ordem de escrita: a CPU envia o sinal de escrita (WRITE) pelo Barramento de Controle;
-IV. Armazenamento: a memória recebe o sinal, localiza a célula indicada e grava nela o dado que estava no barramento;
-V. Finalização: a CPU desativa o sinal de escrita, concluindo o ciclo de gravação.
+> I. A CPU define o local e o dado: o endereço de destino é colocado no REM e o dado a ser gravado é colocado no RDM;
+> II. Envio das informações: o endereço viaja pelo Barramento de Endereços e o dado viaja pelo Barramento de Dados até a memória;
+> III. Ordem de escrita: a CPU envia o sinal de escrita (WRITE) pelo Barramento de Controle;
+> IV. Armazenamento: a memória recebe o sinal, localiza a célula indicada e grava nela o dado que estava no barramento;
+> V. Finalização: a CPU desativa o sinal de escrita, concluindo o ciclo de gravação.
 
 10) Um computador possui RDM de 16 bits, REM de 20 bits e células de 8 bits.
 
-a) Qual é o tamanho do barramento de endereços? O tamanho do barramento de endereços é de 20 bits, porque equivale à largura do REM.
+a) Qual é o tamanho do barramento de endereços?
+> O tamanho do barramento de endereços é de 20 bits, porque equivale à largura do REM.
 
-b) Quantas células são lidas em uma única operação? São lidas 2 células em uma única operação. O RDM busca 16 bits por vez, e como cada célula tem 8 bits, 16/8 = 2 células.
+b) Quantas células são lidas em uma única operação?
+> São lidas 2 células em uma única operação. O RDM busca 16 bits por vez, e como cada célula tem 8 bits, 16/8 = 2 células.
 
-c) Quantos bits tem a memória principal? Já que o REM de 20 bits permite endereçar 2^{20} = 1.048.576 células, se multiplicarmos pelo tamanho de cada célula, teremos 1.048.576 células * 8 bits = 8.388.608 bits totais (= 1024 KB = 1 MB).
-
+c) Quantos bits tem a memória principal?
+> Já que o REM de 20 bits permite endereçar 2^{20} = 1.048.576 células, se multiplicarmos pelo tamanho de cada célula, teremos 1.048.576 células * 8 bits = 8.388.608 bits totais (= 1024 KB = 1 MB).
