@@ -42,6 +42,8 @@
 
 > P(E) = (68/68) - (39/68) = 29/68 ~= 0.42647 que em porcentagem (*100) é ~= 42.65%.
 
+---
+
 <img width="1246" height="253" alt="image" src="https://github.com/user-attachments/assets/bf33dd61-a5e1-4f87-a72b-efc630298576" />
 
 ### Questão 3
@@ -52,6 +54,8 @@
 
 > chance = 0.8 / (1-0.8) = 0.8 / 0.2 = 4
 
+---
+
 <img width="1248" height="270" alt="image" src="https://github.com/user-attachments/assets/69470c88-bf48-488b-a986-d5e329cd0a23" />
 
 ### Questão 4
@@ -61,6 +65,8 @@
 > D = {o SSD sorteado é um defeituoso?}
 
 > P(D) = defeito / lote = 23 / 137 ~= 0.1678832... que em porcentagem (*100) vira P(D) ~= 16.79%
+
+---
 
 <img width="1247" height="442" alt="image" src="https://github.com/user-attachments/assets/4760b763-f74c-4bb1-a2d7-3575d9df0b7e" />
 
@@ -78,6 +84,8 @@
 
 > em porcentagem: prob *= 100 ~= 0.558685 * 100 ~= 55.8685%, assim, P(A¯∪¯F¯) ~= 55.87%
 
+---
+
 <img width="1245" height="316" alt="image" src="https://github.com/user-attachments/assets/4aed39f1-7ccb-44bb-a0b3-24697eb28376" />
 
 ### Questão 6
@@ -88,17 +96,23 @@
 
 > P(X = 1) = 1.000 - 0.5555 = 0.4445, em duas casas decimais temos P(X = 1) = 0.44
 
+---
+
 <img width="1244" height="277" alt="image" src="https://github.com/user-attachments/assets/bfecb60a-734d-4e73-84ff-8e824fde9667" />
 
 ### Questão 7
 
 > resposta aqui
 
+---
+
 <img width="1247" height="254" alt="image" src="https://github.com/user-attachments/assets/9abd7665-3530-4b88-9cdf-91c5db6cd4c5" />
 
 ### Questão 8
 
 > Fornecer a base matemática para os modelos inferenciais, permitindo a formulação e avaliação de estimadores, testes de hipóteses e intervalos de confiança. 
+
+---
 
 <img width="1247" height="211" alt="image" src="https://github.com/user-attachments/assets/414b7d65-bc6d-46f6-8c63-0b7989ba1d0f" />
 
@@ -113,6 +127,8 @@
 > chance = (probab) / (1-probab) onde (probab) representa o acontecimento do evento e (1-probab) o não acontecimento do evento;
 
 > assim, chance = 0.9 / (1-0.9) = 0.9 / 0.1 = 9.00
+
+---
 
 <img width="1243" height="431" alt="image" src="https://github.com/user-attachments/assets/2b13749e-e0a4-4980-aece-c51093881606" />
 
