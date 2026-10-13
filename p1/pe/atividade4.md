@@ -40,7 +40,15 @@
 
 > P(E) = (68/68) - (39/68) = 29/68 ~= 0.42647 que em porcentagem (*100) é ~= 42.65%.
 
-3. <img width="1246" height="253" alt="image" src="https://github.com/user-attachments/assets/bf33dd61-a5e1-4f87-a72b-efc630298576" />
+<img width="1246" height="253" alt="image" src="https://github.com/user-attachments/assets/bf33dd61-a5e1-4f87-a72b-efc630298576" />
+
+# Questão 3
+
+> probabilidade de chover amanhã = 80% = 0.8 (escala de 0 a 1)
+
+> (odds ou) chance = prob / (1-prob)
+
+> chance = 0.8 / (1-0.8) = 0.8 / 0.2 = 4
 
 4. <img width="1248" height="270" alt="image" src="https://github.com/user-attachments/assets/69470c88-bf48-488b-a986-d5e329cd0a23" />
 
