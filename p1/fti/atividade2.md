@@ -84,3 +84,38 @@
 
 > e. Auxiliar decisões semiestruturadas por meio de modelos, simulações e análises. - Correto! SAD/DSS combinam dados e modelos para apoiar decisões complexas.
 
+8. Entre as alternativas, qual descreve corretamente o foco do CRM e do SCM?
+
+> a. CRM: suporte a decisões executivas; SCM: geração de dashboards apenas.
+
+> b. CRM: gestão do relacionamento com clientes; SCM: otimização da cadeia de suprimentos. - Correto! Essa é a distinção funcional entre CRM e SCM conforme o material.
+
+> c. CRM: processamento de transações em lote; SCM: codificação de software.
+
+> d. CRM: substituição do ERP; SCM: armazenamento de dados sem integração.
+
+> e. CRM: controle de estoques; SCM: atendimento ao cliente.
+
+9. Qual a principal função de um Sistema de Informação Gerencial (SIG/MIS)?
+
+> a. Servir apenas como repositório histórico sem gerar relatórios.
+
+> b. Consolidar dados operacionais em relatórios e fornecer informações para gerência tática. - Correto! SIG transforma dados (geralmente de SPTs) em relatórios gerenciais.
+
+> c. Substituir o ERP em todas as áreas da organização.
+
+> d. Executar transações de ponto de venda em tempo real.
+
+> e. Fornecer exclusivamente previsões financeiras automatizadas.
+
+10. Segundo os slides, qual é o propósito fundamental de um Sistema de Informação?
+
+> a. Garantir que todos os processos sejam manuais.
+
+> b. Substituir completamente a tomada de decisão humana.
+
+> c. Auxiliar indivíduos e organizações a analisar problemas, visualizar assuntos complexos e criar novos produtos e serviços. - Correto! Essa é a descrição do propósito fundamental apresentada nos slides.
+
+> d. Impor modelos de negócio sem flexibilidade.
+
+> e. Armazenar dados sem política de acesso.
