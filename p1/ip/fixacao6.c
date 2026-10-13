@@ -1,3 +1,5 @@
+// QUADRADO OU RETANGULO?
+
 // incluir bib padrao de entrada e saida
 #include <stdio.h>
 
