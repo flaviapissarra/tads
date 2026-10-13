@@ -8,6 +8,6 @@
 6. [Implementação de sistemas computacionais](atividade6.md)
 7. [Visão geral do processo de desenvolvimento de sistemas + Exercícios de fixação 2](fixacao2.md)
 
-###### TI
+###### TI, Segurança da Informação, Red Team, Blue Team, Cibersegurança, Cybersec
 
 ##### Créditos: Prof. Flávia Simões Rangel e Prof. Pedro David Netto Silveira
