@@ -8,4 +8,5 @@
 > 6. O número binário [ $(1101101)_{2}$ ], quando convertido para a base octal, é igual a: a. [ $(155)_{8}$ ];
 > 7. Qual é o resultado da soma binária [ $(1011)_{2}$ ] ​+ [ $(110)_{2}$ ]? a. [ $(10001)_{2}$​ ];
 > 8. O resultado da subtração binária [ $(1101)_{2}$ ] ​− [ $(101)_{2}$ ]​ é: a. [ $(1000)_{2}$ ];
-> 9. 
+> 9. O resultado da multiplicação binária [ $(100)_{2}$ ] ​× [ $(10)_{2}$ ]​ é: b. [ $(1000)_{2}$ ];
+> 10. 
