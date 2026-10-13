@@ -74,15 +74,23 @@
 
 > probabilidade: probab = (nenhuma/empresas)*100 = (119/213)*100 = 0.558685
 
-> em porcentagem: prob *= 100 ~= 0.5586 * 100 ~= 55.86%, assim, P(A¯∪¯F¯) ~= 55.87%
+> em porcentagem: prob *= 100 ~= 0.558685 * 100 ~= 55.8685%, assim, P(A¯∪¯F¯) ~= 55.87%
 
 <img width="1245" height="316" alt="image" src="https://github.com/user-attachments/assets/4aed39f1-7ccb-44bb-a0b3-24697eb28376" />
 
 ### Questão 6
 
+> P(X = 0) + P(X = 1) + P(X = 2) = total
 
+> 0.1111 + P(X = 1) + 0.4444 =  1.000
 
-7. <img width="1244" height="277" alt="image" src="https://github.com/user-attachments/assets/bfecb60a-734d-4e73-84ff-8e824fde9667" />
+> P(X = 1) = 1.000 - 0.5555 = 0.4445, em duas casas decimais temos P(X = 1) = 0.44
+
+<img width="1244" height="277" alt="image" src="https://github.com/user-attachments/assets/bfecb60a-734d-4e73-84ff-8e824fde9667" />
+
+### Questão 7
+
+>
 
 8. <img width="1247" height="254" alt="image" src="https://github.com/user-attachments/assets/9abd7665-3530-4b88-9cdf-91c5db6cd4c5" />
 
