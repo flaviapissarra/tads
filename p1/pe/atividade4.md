@@ -16,9 +16,7 @@
 
 > P(E) = 1 - (64/121) = (121/121) - (64/121) = 57/121 = 0.47107
 
-> P(E) = 0.47107 * 100 ~= 47.11% \
-
-<br>
+> P(E) = 0.47107 * 100 ~= 47.11% 
 
 <img width="1243" height="271" alt="image" src="https://github.com/user-attachments/assets/3cb14ec7-b255-4282-a188-4cf172ea300b" />
 
@@ -118,6 +116,10 @@
 
 ### Questão 10
 
->
+> empresas = 214, usam_r = 83, usam_py_r = 8
 
->
+> quem usa somente R? somente_r = usam_r - usam_py_r, logo, somente_r = 83-8 = 75 empresas usam somente R
+
+> qual é a probabilidade do evento? P(E) = somente_r/empresas = 75/214 ~= 0.350467
+
+> em porcentagem arredondada ficamos com 0.350467*100; assim, a P(E) = 35.05%
