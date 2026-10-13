@@ -102,7 +102,13 @@
 
 ### Questão 7
 
-> resposta aqui
+> un_ssd = 121, un_defeito = 10
+
+> calculando os SSDs não defeituosos: nao_defeito = un_ssd - un_defeito, que resulta em nao_defeito = 121-10 = 111 unidades
+
+> calculando a probabilidade de não ser defeituoso: P(D¯) = nao_defeito / un_ssd = 111 / 121 = 0.91735537
+
+> logo, em porcentagem, P(D¯) ≃ 0.9173*100 ≃ 91.74%
 
 ---
 
