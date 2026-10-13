@@ -21,7 +21,9 @@
 > [!WARNING]
 > ainda tentando consertar o seguinte bug...
 
-7. O resultado da soma binária $(00001011){2}; mais $(00000110){2}$:
+7. O resultado da soma binária entre...
+- $(1011)_{2}
+- $(00000110)_{2}$ é...
 > a. $(00010001)_{2}$​;
 
 8. O resultado da subtração binária $(1101){2}$; menos $(101){2}$ é:
