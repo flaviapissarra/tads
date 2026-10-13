@@ -1,6 +1,6 @@
 # Semana 5 [22/09 a 28/09]: CSS - Cascading Style Sheets
 
-# [Atividade 5] Questionário — HTML Semântico e CSS — Semanas 4 e 5 (Prazo: 26/10 – Valor: 6,0 pontos)
+# [Atividade 5] Questionário — HTML Semântico e CSS — Semanas 4 e 5
 
 1. Nos times profissionais, a estilização cotidiana usa majoritariamente:
    b. classes, reutilizáveis e de especificidade previsível
