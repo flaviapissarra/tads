@@ -17,7 +17,9 @@
 > P(E) = 1 - (64/121) = (121/121) - (64/121) = 57/121 = 0.47107
 
 > P(E) = 0.47107 * 100 ~= 47.11%
-<br><br>
+
+---
+
 <img width="1243" height="271" alt="image" src="https://github.com/user-attachments/assets/3cb14ec7-b255-4282-a188-4cf172ea300b" />
 
 ### Questão 2
