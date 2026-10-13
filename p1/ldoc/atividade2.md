@@ -10,16 +10,13 @@
 > a. $(101101)_{2}$;
 
 4. O número binário $(1101)_{2}$, quando convertido para a base decimal, é igual a:
-> c. 13;
+> c. $(13)_{10}$;
 
 5. O número hexadecimal $(2A)_{16}$, quando convertido para a base decimal, é igual a:
-> c. 42;
+> c. $(42)_{10}$;
 
 6. O número binário $(1101101)_{2}$, quando convertido para a base octal, é igual a:
 > a. $(155)_{8}$;
-
-> [!WARNING]
-> ainda tentando consertar o seguinte bug...
 
 7. O resultado da soma binária entre...
 - $(1011)_{2}$
