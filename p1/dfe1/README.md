@@ -2,4 +2,4 @@
 
 ## Índice
 
-* [Manual de Uso (Markdown)](./atividade1.md)
+* [Atividade 1](./atividade1.md)
