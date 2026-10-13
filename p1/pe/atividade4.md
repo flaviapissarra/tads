@@ -90,9 +90,13 @@
 
 ### Questão 7
 
->
+> 
 
-8. <img width="1247" height="254" alt="image" src="https://github.com/user-attachments/assets/9abd7665-3530-4b88-9cdf-91c5db6cd4c5" />
+<img width="1247" height="254" alt="image" src="https://github.com/user-attachments/assets/9abd7665-3530-4b88-9cdf-91c5db6cd4c5" />
+
+### Questão 8
+
+> Fornecer a base matemática para os modelos inferenciais, permitindo a formulação e avaliação de estimadores, testes de hipóteses e intervalos de confiança. 
 
 9. <img width="1247" height="211" alt="image" src="https://github.com/user-attachments/assets/414b7d65-bc6d-46f6-8c63-0b7989ba1d0f" />
 
