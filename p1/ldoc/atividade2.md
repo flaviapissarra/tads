@@ -21,7 +21,8 @@
 > [!WARNING]
 > ainda tentando consertar o seguinte bug...
  
-7. Qual é o resultado da soma binária '$(1011\)_{2}$' mais '$(110\)_{2}$'?
+7. Qual é o resultado da soma binária $(1011)_{2}$
+   mais $(110\)_{2}$?
 > a. $(10001)_{2}$​;
 
 8. O resultado da subtração binária '$(1101\)_{2}$' menos '$(101\)_{2}$' é:
