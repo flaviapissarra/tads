@@ -3,9 +3,13 @@
 1. Qual dos seguintes elementos não é um componente de um sistema de informação?
 
 > a. Automóveis - Correto! Automóveis não fazem parte dos sistemas de informação.
+
 > b. Hardware
+
 > c. Software
+
 > d. Procedimentos
+
 > e. Pessoas
 
 2. Quando dizemos que alguém entendeu que Pedro tem uma renda fixa porque recebe pagamentos mensais, estamos nos referindo a:
