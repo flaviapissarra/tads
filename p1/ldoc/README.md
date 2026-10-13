@@ -14,3 +14,7 @@
 6. Memória Principal e Organização
 7. Memória Cache + [Envio de Respostas - Capítulo 4](atividade3.md)
 8. Processadores I + Produção de vídeo em grupo
+
+###### barramentos, sistemas de computação, bits, bytes, unidades de medida, conversão de bases numéricas, binário, octal, decimal, hexadecimal, aritmética binária, circuitos digitais, portas lógicas, memória principal e organização, gerenciamento de memória, memória cache, mapeamento direto, mapeamento associativo, funcionamento da CPU
+
+##### Créditos: Prof. Juliétte Lima Gomes Moreira e Prof. 
