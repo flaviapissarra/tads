@@ -1,0 +1,21 @@
+# Avaliação 04: Probabilidade Básica, Distribuições de probabilidades
+
+1. <img width="1243" height="271" alt="image" src="https://github.com/user-attachments/assets/7fd73df6-3aea-4a3e-a726-a077ac62e9e9" />
+
+2. <img width="1243" height="271" alt="image" src="https://github.com/user-attachments/assets/3cb14ec7-b255-4282-a188-4cf172ea300b" />
+
+3. <img width="1246" height="253" alt="image" src="https://github.com/user-attachments/assets/bf33dd61-a5e1-4f87-a72b-efc630298576" />
+
+4. <img width="1248" height="270" alt="image" src="https://github.com/user-attachments/assets/69470c88-bf48-488b-a986-d5e329cd0a23" />
+
+5. <img width="1247" height="442" alt="image" src="https://github.com/user-attachments/assets/4760b763-f74c-4bb1-a2d7-3575d9df0b7e" />
+
+6. <img width="1245" height="316" alt="image" src="https://github.com/user-attachments/assets/4aed39f1-7ccb-44bb-a0b3-24697eb28376" />
+
+7. <img width="1244" height="277" alt="image" src="https://github.com/user-attachments/assets/bfecb60a-734d-4e73-84ff-8e824fde9667" />
+
+8. <img width="1247" height="254" alt="image" src="https://github.com/user-attachments/assets/9abd7665-3530-4b88-9cdf-91c5db6cd4c5" />
+
+9. <img width="1247" height="211" alt="image" src="https://github.com/user-attachments/assets/414b7d65-bc6d-46f6-8c63-0b7989ba1d0f" />
+
+10. <img width="1243" height="431" alt="image" src="https://github.com/user-attachments/assets/2b13749e-e0a4-4980-aece-c51093881606" />
