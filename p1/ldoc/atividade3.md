@@ -3,25 +3,17 @@
 1. Quantos bytes podem ser armazenados nessa memória?
 > Pela resposta do colega, pude ver que o barramento de endereços tem 12 bits. Logo, para obtermos a quantidade de células, calculamos 2^12 = 4096. Cada uma delas armazena 16 bits (2 bytes = 2 * 8). Assim, calculamos as células vezes o número de bytes: 4096*2 = 8192 bytes, o equivalente a 8 KB.
 
-2) O que é acesso à memória? Caracterize o tempo de acesso.
-O acesso à memória consiste na leitura ou escrita de informações na memória de um computador. Esse processo tem um tempo específico necessário para acontecer, e esse é chamado de "tempo de acesso"; para efeito de comparação: SSDs tendem a ser ultra-rápidos, enquanto a RAM é mais lenta.
+2. O que é acesso à memória? Caracterize o tempo de acesso.
+> O acesso à memória consiste na leitura ou escrita de informações na memória de um computador. Esse processo tem um tempo específico necessário para acontecer, e esse é chamado de "tempo de acesso"; para efeito de comparação: SSDs tendem a ser ultra-rápidos, enquanto a RAM é mais lenta.
 
-3) Quais operações podem ser realizadas em uma memória?
-Leitura (busca de dados e/ou informações já armazenados) e escrita (gravação de dados e/ou informações na memória).
+3. Quais operações podem ser realizadas em uma memória?
+> Leitura (busca de dados e/ou informações já armazenados) e escrita (gravação de dados e/ou informações na memória).
 
-4) Qual a diferença entre SRAM e DRAM?
-Comparando-as, a:
+4. Qual a diferença entre SRAM e DRAM?
+> Comparando-as, a:
+> SRAM (Static Random Access Memory/Memória de Acesso Aleatório Estática): usa os circuitos eletrônicos flip flops para guardar cada bit de dado; não precisa de atualização constante enquanto estiver ligada à energia; é mais rápida mas também mais cara e com menor capacidade de armazenamento; é utilizada em memórias cache de processadores;
+> DRAM (Dynamic Random Access Memory): usa um conjunto de um transistor e um capacitor para cada bit; precisa ser recarregada milhares de vezes por segundo para não perder os dados; é mais lenta que a SRAM mas é mais barata e permite alta densidade de memória; é utilizada como a memória RAM principal de computadores, notebooks e celulares.
 
-SRAM (Static Random Access Memory/Memória de Acesso Aleatório Estática):
-usa os circuitos eletrônicos flip flops para guardar cada bit de dado;
-não precisa de atualização constante enquanto estiver ligada à energia;
-é mais rápida mas também mais cara e com menor capacidade de armazenamento;
-é utilizada em memórias cache de processadores;
-DRAM (Dynamic Random Access Memory):
-usa um conjunto de um transistor e um capacitor para cada bit;
-precisa ser recarregada milhares de vezes por segundo para não perder os dados;
-é mais lenta que a SRAM mas é mais barata e permite alta densidade de memória;
-é utilizada como a memória RAM principal de computadores, notebooks e celulares.
 5) Qual a diferença entre as organizações de memória?
 
 A diferença entre as organizações de memória é calculada pelo número de endereços (células), o tamanho do conteúdo de cada célula (em bits) e o total de bits de armazenamento de cada uma.
