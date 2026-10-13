@@ -7,3 +7,7 @@
 5. [Infra-estrutura de TI: hardware e software + Exercícios de fixação 1](fixacao1.md)
 6. [Implementação de sistemas computacionais](atividade6.md)
 7. [Visão geral do processo de desenvolvimento de sistemas + Exercícios de fixação 2](fixacao2.md)
+
+###### TI
+
+##### Créditos: Prof. Flávia Simões Rangel
