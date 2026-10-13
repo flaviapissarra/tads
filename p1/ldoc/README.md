@@ -4,4 +4,5 @@
 
 1. Leituras
 2. [Atividade 01: Sistemas de Computação](atividade1.md)
-3. 
+3. Leituras
+4. [Conceitos de sistemas de numeração, conversão de bases e aritmética binária - Semana 4](atividade2.md)
