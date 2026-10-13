@@ -1,4 +1,4 @@
-# [Atividade 6] Questionário — Layouts com CSS (+ revisão) (Prazo: 26/10 – Valor: 6,0 pontos)
+# [Atividade 6] Questionário — Layouts com CSS (+ revisão)
 
 1. Em um e-commerce, a tag mais adequada para envolver cada card de produto de uma vitrine é:
    b. ```<article>```, pois o card é autocontido e faria sentido fora da página
