@@ -90,7 +90,7 @@
 
 ### Questão 7
 
-> 
+> resposta aqui
 
 <img width="1247" height="254" alt="image" src="https://github.com/user-attachments/assets/9abd7665-3530-4b88-9cdf-91c5db6cd4c5" />
 
@@ -98,6 +98,18 @@
 
 > Fornecer a base matemática para os modelos inferenciais, permitindo a formulação e avaliação de estimadores, testes de hipóteses e intervalos de confiança. 
 
-9. <img width="1247" height="211" alt="image" src="https://github.com/user-attachments/assets/414b7d65-bc6d-46f6-8c63-0b7989ba1d0f" />
+<img width="1247" height="211" alt="image" src="https://github.com/user-attachments/assets/414b7d65-bc6d-46f6-8c63-0b7989ba1d0f" />
+
+### Questão 9
+
+> qual é a probabilidade do seguinte evento acontecer: a TV passar 5 anos sem dar defeito dentro da garantia)? 90%;
+
+> qual é a probabilidade do seguinte evento acontecer: o restante da porcentagem de TVs que podem dar defeito antes dos 5 anos fora da garantia? 10%
+
+> ou seja, a probabilidade da TV durar (do evento acontecer) é de 0.9 e a probabilidade dela quebrar (do evento não acontecer) é de 0.1; assim...
+
+> chance = (probab) / (1-probab) onde (probab) representa o acontecimento do evento e (1-probab) o não acontecimento do evento;
+
+> assim, chance = 0.9 / (1-0.9) = 0.9 / 0.1 = 9.00
 
 10. <img width="1243" height="431" alt="image" src="https://github.com/user-attachments/assets/2b13749e-e0a4-4980-aece-c51093881606" />
