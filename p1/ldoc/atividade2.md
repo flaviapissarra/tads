@@ -22,15 +22,15 @@
 > ainda tentando consertar o seguinte bug...
 
 7. O resultado da soma binária $(00001011)_{2}
-7. mais $(00000110)_{2}$:
+... mais $(00000110)_{2}$:
 > a. $(00010001)_{2}$​;
 
 8. O resultado da subtração binária $(1101)_{2}$
-8. menos $(101)_{2}$ é:
+... menos $(101)_{2}$ é:
 > a. $(1000)_{2}$;
 
 9. O resultado da multiplicação binária $(100)_{2}$
-9. vezes $(10)_{2}$ é:
+... vezes $(10)_{2}$ é:
 > b. $(1000)_{2}$;
 
 10. O complemento de 2 do número binário de 8 bits $(01010110)_{2}$ é:
