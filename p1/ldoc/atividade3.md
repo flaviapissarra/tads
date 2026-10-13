@@ -40,22 +40,32 @@
 > Ou seja, a função do REM é armazenar temporariamente o endereço de memória onde a CPU deseja ler ou gravar uma informação; e a do RDM é armazenar temporariamente o conteúdo (dado ou instrução) que acabou de ser lido da memória ou que está pronto para ser gravado nela.
 
 7) Descreva os barramentos que interligam o processador e a memória principal.
-> I. Address Bus / Barramento de Endereços: é unidirecional e transporta o endereço da célula de memória que a CPU deseja acessar (seja para ler ou para gravar); 
+> I. Address Bus / Barramento de Endereços: é unidirecional e transporta o endereço da célula de memória que a CPU deseja acessar (seja para ler ou para gravar);
+
 > II. Data Bus / Barramento de dados: é bidirecional e transporta a informação propriamente dita (os dados ou as instruções do programa) entre o processador e a memória; 
+
 > III. Control Bus / Barramento de controle: é misto/bidirecional em termos globais (pois engloba várias linhas com funções específicas de ida e volta) e transporta os sinais de sincronização e comando que coordenam a operação, garantindo que os componentes saibam exatamente o que fazer e quando fazer.
 
 8) Descreva passo-a-passo uma operação de leitura.
 > I. CPU define o local: o endereço da memória é colocado no REM;
+
 > II. Envio do endereço: esse endereço viaja pelo Barramento de Endereços até a memória;
+
 > III. Ordem de leitura: a CPU envia o sinal de leitura (READ) pelo Barramento de Controle;
+
 > IV. Busca e envio: a memória localiza a célula, lê o conteúdo e o envia pelo Barramento de Dados;
+
 > V. Recebimento: a CPU captura a informação e a guarda no RDM.
 
 9) Descreva passo-a-passo uma operação de escrita.
 > I. A CPU define o local e o dado: o endereço de destino é colocado no REM e o dado a ser gravado é colocado no RDM;
+
 > II. Envio das informações: o endereço viaja pelo Barramento de Endereços e o dado viaja pelo Barramento de Dados até a memória;
+
 > III. Ordem de escrita: a CPU envia o sinal de escrita (WRITE) pelo Barramento de Controle;
+
 > IV. Armazenamento: a memória recebe o sinal, localiza a célula indicada e grava nela o dado que estava no barramento;
+
 > V. Finalização: a CPU desativa o sinal de escrita, concluindo o ciclo de gravação.
 
 10) Um computador possui RDM de 16 bits, REM de 20 bits e células de 8 bits.
