@@ -18,6 +18,9 @@
 6. O número binário $(1101101)_{2}$, quando convertido para a base octal, é igual a:
 > a. $(155)_{8}$;
 
+> [!WARNING]
+> ainda tentando consertar o seguinte bug...
+ 
 7. Qual é o resultado da soma binária '$(1011)_{2}$' mais '$(110)_{2}$'?
 > a. $(10001)_{2}$​;
 
