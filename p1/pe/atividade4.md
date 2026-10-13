@@ -38,7 +38,7 @@
 
 > com pelo menos um defeituoso, P(E) = 1 - (39/68), assim,
 
-> P(E) = (68/68) - (39/68) = 29/68 = 0.42647 que em porcentagem (*100) é 42.65%.
+> P(E) = (68/68) - (39/68) = 29/68 ~= 0.42647 que em porcentagem (*100) é ~= 42.65%.
 
 3. <img width="1246" height="253" alt="image" src="https://github.com/user-attachments/assets/bf33dd61-a5e1-4f87-a72b-efc630298576" />
 
