@@ -9,6 +9,6 @@
 3. [Atividade Avaliativa 1 - Semana 3](atividade1.md)
 4. Sem atividade avaliativa na Semana 4, apenas leituras.
 5. [Atividade Avaliativa 2 - Semana 5](atividade2.md)
-6. [Atividade Avaliativa 3 - Semana 6](atividade3.c)
+6. [Atividade Avaliativa 3 - Semana 6](atividade3.c) e [Exercício de fixação](fixacao6.c)
 
 ###### C
