@@ -1,4 +1,4 @@
-# [Atividade 3] Questionário — Estrutura do HTML (+ revisão) (Prazo: 28/10 – Valor: 6,0 pontos)
+# [Atividade 3] Questionário — Estrutura do HTML (+ revisão)
 
 1. Analise o código. Qual o papel de `target="_blank"` e `rel="noopener"`?
    `<a href="https://www.ifes.edu.br" target="_blank" rel="noopener">Site do Ifes</a>`
