@@ -58,7 +58,7 @@
 
 > D = {o SSD sorteado é um defeituoso?}
 
-> P(D) = unid. def. / unid. totais = 23 / 137 ~= 0.167... que em porcentagem (*100) vira P(D) ~= 16.78%
+> P(D) = unid. def. / unid. totais = 23 / 137 ~= 0.1678832... que em porcentagem (*100) vira P(D) ~= 16.79%
 
 5. <img width="1247" height="442" alt="image" src="https://github.com/user-attachments/assets/4760b763-f74c-4bb1-a2d7-3575d9df0b7e" />
 
