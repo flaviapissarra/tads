@@ -17,4 +17,4 @@
 
 ###### barramentos, sistemas de computação, bits, bytes, unidades de medida, conversão de bases numéricas, binário, octal, decimal, hexadecimal, aritmética binária, circuitos digitais, portas lógicas, memória principal e organização, gerenciamento de memória, memória cache, mapeamento direto, mapeamento associativo, funcionamento da CPU
 
-##### Créditos: Prof. Juliétte Lima Gomes Moreira e Prof. 
+##### Créditos: Prof. Juliétte Lima Gomes Moreira e Prof. Aquila Ditzz
