@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Inscrição - Núcleo incubador do Ifes de Alegre</title>
+  <link rel="stylesheet" href="./css/style.css"> 
+</head>
+<body>
+  <header>
+    <h1>Núcleo incubador do Ifes de Alegre</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html#inicio">Início</a></li>
+        <li><a href="index.html#programas">Programas</a></li>
+        <li><a href="index.html#contato">Contato</a></li>
+        <li><a href="pre-incubacao.html">Inscrição</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="conteudo">
+    <h3>Formulário de Inscrição na Pré-Incubação</h3>
+    <p>Preencha os campos abaixo para submeter a sua ideia ou projeto ao nosso programa de pré-incubação.</p>
+
+    <form action="#" method="POST">
+      <div>
+        <label for="nome">Nome Completo:</label>
+        <input type="text" id="nome" name="nome" required minlength="3">
+      </div>
+
+      <div>
+        <label for="email">E-mail:</label>
+        <input type="email" id="email" name="email" required>
+      </div>
+
+      <div>
+        <label for="telefone">Telefone/Celular (Padrão: (XX) XXXXX-XXXX):</label>
+        <input type="tel" id="telefone" name="telefone" placeholder="(27) 99999-9999" pattern="^\(\d{2}\) \d{5}-\d{4}$" maxlength="15" required>
+      </div>
+
+      <div>
+        <label for="nascimento">Data de Nascimento:</label>
+        <input type="date" id="nascimento" name="nascimento" required>
+      </div>
+
+      <div>
+        <label for="escolaridade">Nível de Escolaridade:</label>
+        <select id="escolaridade" name="escolaridade" required>
+          <option value="" disabled selected>Selecione...</option>
+          <option value="Ensino Fundamental Incompleto">Ensino Fundamental Incompleto</option>
+          <option value="Ensino Fundamental Completo">Ensino Fundamental Completo</option>
+          <option value="Ensino Médio Completo">Ensino Médio Completo</option>
+          <option value="Graduação em Andamento">Graduação em Andamento</option>
+          <option value="Graduado">Graduado</option>
+          <option value="Pós-Graduado">Pós-Graduado</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="nome-projeto">Nome do Projeto/Ideia:</label>
+        <input type="text" id="nome-projeto" name="nome_projeto" required>
+      </div>
+
+      <div>
+        <label for="descricao">Descrição do Projeto (entre 50 e 500 caracteres):</label>
+        <textarea id="descricao" name="descricao" rows="6" minlength="50" maxlength="500" required></textarea>
+      </div>
+
+      <div>
+        <label for="integrantes">Nº de Integrantes na Equipe:</label>
+        <input type="number" id="integrantes" name="integrantes" min="1" required>
+      </div>
+
+      <div>
+        <label>
+          <input type="checkbox" name="termos" required> Concordo com os Termos de Uso
+        </label>
+      </div>
+
+      <div>
+        <button type="submit" class="botao-cta">Enviar Inscrição</button>
+      </div>
+    </form>
+  </main>
+
+  <footer>
+    <p>&copy; <time datetime="2026">2026</time> Núcleo incubador do Ifes de Alegre. Todos os direitos reservados.</p>
+  </footer>
+  
+
+</body>
+</html>
