@@ -11,6 +11,7 @@
 5. [CSS - Cascading Style Sheets e Questionário — HTML Semântico e CSS — Semanas 4 e 5](./atividade5.md)
 6. [Questionário — Layouts com CSS (+ revisão)](./atividade6.md)
 7. [Fórum — Desafios e Boas Práticas na Construção de Layouts Responsivos](./atividade7.md)
+8. [Prática 8 — Página de contato com formulário validado (Prazo: 09/11 – Não avaliativa)](./atividade8.md)
 
 ###### HTML, CSS
 
