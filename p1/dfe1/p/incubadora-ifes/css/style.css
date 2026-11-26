@@ -1,0 +1,76 @@
+/* Tipografia e cores básicas */
+body { 
+  font-family: Arial, Helvetica, sans-serif; 
+  color: #333; 
+  margin: 0;
+  padding: 0;
+}
+
+header, main, footer {
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 { font-size: 2rem; color: #8f041d; }
+h2 { font-size: 1.5rem; color: #a61932; }
+h3 { font-size: 1.2rem; color: #cc0025; }
+
+p, li, address, a { font-size: 1rem; }
+a { color: #0088cc; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+figcaption { font-size: 0.8rem; color: #a61932; }
+
+/* Estilização do Formulário */
+form div {
+  margin-bottom: 15px;
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #333;
+}
+
+form input[type="text"],
+form input[type="email"],
+form input[type="tel"],
+form input[type="date"],
+form input[type="number"],
+form select,
+form textarea {
+  width: 100%;
+  max-width: 500px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+/* Botão CTA exigido na rubrica */
+.botao-cta, .btn-link { 
+  background-color: #8f041d; 
+  border-radius: 8px; 
+  color: white; 
+  padding: 10px 20px; 
+  text-align: center; 
+  text-decoration: none; 
+  display: inline-block; 
+  font-size: 1rem; 
+  cursor: pointer; 
+  border: none;
+}
+
+.botao-cta:hover, .btn-link:hover {
+  background-color: #a61932;
+  text-decoration: none;
+}
