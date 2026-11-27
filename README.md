@@ -1,2 +1,2 @@
 # tads
-Atividades relacionadas ao curso de Análise e Desenvolvimento de Sistemas no Ifes (2026 a 2029).
+Atividades relacionadas ao Tecnólogo em Análise e Desenvolvimento de Sistemas do Ifes (2026 a 2029).
